@@ -3,7 +3,7 @@
 - **Proposed by:** @kevina
 - **Led by:** possibly @kevina
 - **Duration:** 30 - 90 minutes, however long it takes to consider the issue carefully.
-- **Who has to be there in order for it to work:** @whyrusleeping @diasdavid @Stebalien (maybe @jbenet)
+- **Who has to be there in order for it to work:** @whyrusleeping @diasdavid @Stebalien @lidel (maybe @jbenet)
 
 ## Overview
 
